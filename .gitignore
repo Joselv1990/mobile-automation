@@ -1,0 +1,32 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# Test artifacts
+*.log
+test-output/
+reports/
+screenshots/
+
+# APK binaries (downloaded by setup, see apps/README.md)
+apps/*.apk
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Appium
+appium.log
